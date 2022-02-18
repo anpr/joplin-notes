@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 18 Feb 2022 14:20:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[GraphQL vs REST]]></title>
+            <guid>a88c58da31104a78b47a6ca9164a36fb</guid>
+            <pubDate>Wed, 16 Feb 2022 09:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Vorteil REST:</p>
+<p>Nachteil REST:</p>
+<p>Vorteil GraphQL:</p>
+<ul>
+<li>Introspection im Schema</li>
+<li>Kein Underfetching und Overfetching</li>
+<li>Flexibility on the Frontend to define what you need</li>
+</ul>
+<p>Nachteil GraphQL</p>
+<ul>
+<li>Performance-Probleme</li>
+</ul>
+<p>Tim Leers  2022-02-17 7:47 PM
+bzgl. Dataloader: Strawberry hat das ganz nett gelöst. Du kannst einen Dataloader pro Context anlegen, den alle Nodes dann benutzen würden. Dadurch wirds weniger Arbeit, man muss nur dran denken, den dann auch zu benutzen
+<a title="https://strawberry.rocks/docs/guides/dataloaders#usage-with-context" href="https://strawberry.rocks/docs/guides/dataloaders#usage-with-context">https://strawberry.rocks/docs/guides/dataloaders#usage-with-context</a>
+strawberry.rocksstrawberry.rocks
+DataLoaders | 🍓 Strawberry GraphQL
+Strawberry is Python library to build GraphQL APIs, built on top of dataclasses (27 kB)</p>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
